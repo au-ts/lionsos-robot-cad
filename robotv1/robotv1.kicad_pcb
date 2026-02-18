@@ -32424,6 +32424,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Buzzer Gnd ->"
+		(at 123.225 206.075 90)
+		(layer "F.SilkS")
+		(uuid "2b90a380-400a-4f1e-8198-c01d2451af5f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "Battery"
 		(at 111.06 229.95 0)
 		(layer "F.SilkS")
@@ -32594,6 +32606,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Gnd / negative ->"
+		(at 123.725 230.825 90)
+		(layer "F.SilkS")
+		(uuid "a3ffcc45-60e7-4423-81b1-eaa3bafa3f0b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "3V3"
 		(at 111.06 234.95 0)
 		(layer "F.SilkS")
@@ -32607,7 +32631,7 @@
 		)
 	)
 	(gr_text "LiPo Balance"
-		(at 123.9 230.75 90)
+		(at 122.225 229.825 90)
 		(layer "F.SilkS")
 		(uuid "abb5c17c-054e-4d95-baa4-65be104362d1")
 		(effects
@@ -32630,10 +32654,46 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Gnd\n"
+		(at 55.975 164.575 0)
+		(layer "F.SilkS")
+		(uuid "b1d62fc2-cd1a-44c0-a725-c9df471cb61f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "USB"
 		(at 94.795 235.21 90)
 		(layer "F.SilkS")
 		(uuid "b77926f5-b2b0-4d5d-9359-220679ec0b72")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SCK"
+		(at 62.975 191.075 0)
+		(layer "F.SilkS")
+		(uuid "c06d1474-8a77-4092-a33c-c2d0bc8d8997")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "MOSI"
+		(at 62.975 196.575 0)
+		(layer "F.SilkS")
+		(uuid "d3305fb0-3c3f-42a3-9e21-b00af91b852e")
 		(effects
 			(font
 				(size 1 1)
@@ -32667,9 +32727,45 @@
 		)
 	)
 	(gr_text "+"
+		(at 109.225 194.825 0)
+		(layer "F.SilkS")
+		(uuid "e1ee2b25-6815-4594-8abe-70e48bb5c5c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Gnd\n"
+		(at 62.975 188.575 0)
+		(layer "F.SilkS")
+		(uuid "e9d46150-ad75-43b5-b3b3-650120061f4e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+"
 		(at 119.57 170.185 0)
 		(layer "F.SilkS")
 		(uuid "ec4861dd-c0e3-4425-b01c-6a31e6b2ba50")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "MISO"
+		(at 62.975 193.825 0)
+		(layer "F.SilkS")
+		(uuid "ece5deb5-e79d-4ecd-bca1-41f8003368c0")
 		(effects
 			(font
 				(size 1 1)

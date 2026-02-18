@@ -6,6 +6,54 @@ This repository contains the CAD for the LionsOS robot, that is:
 
 **IF YOU ARE ASSEMBLING A BOARD** make sure you check [the errata](./ERRATA.md). Some minor changes are required for rev 2.0.
 
+![robot](./img/Robot.png)
+
+## Robot chassis
+
+The robot chassis is a 3D printed and laser cut assembly using commodity wheels and
+other mechanical parts sourced from AliExpress.
+
+### Base plate
+
+The base of the robot chassis is a laser-cut board, preferably made with 6mm or 7mm
+untreated plywood (treated plywood may damage your laser cutter). You may substitute this
+for acryllic or aluminium if preferred.
+
+### Wheels, motors and encoders
+
+![robot bottom](./img/Bottom.png)
+
+The robot uses two drive wheels with encoders, with an additional rear caster.
+* [Drive wheel package]()
+* Casters are generic parts from cheap Aliexpress robot kits.
+
+The drive wheels attach using brackets included with the kit, while the caster is attached
+using long fasteners and a 3D printed spacer to ensure the base plate remains parallel to
+the floor. Cutouts are provided to pass through encoder cables and to install zip ties to
+fasten them.
+
+### SBC and power board mounting
+
+The single-board computer and power board are mounted on a 3D-printed raiser which we refer
+to as the "wishbone". The wishbone requires brass M3 threaded inserts to be melted into all
+fastener holes ideally, but this can be substituted with longer fasteners with nuts if unavailable.
+
+![Wishbone without parts mounted](./img/Top_noboard.png)
+![Wishbone with parts mounted](./img/Top.png)
+
+### Faceplate
+
+The faceplate mounts three commodity ultrasonic sensors and is a 3D printed part.
+
+M3 threaded inserts must be melted into this part to mount it to the base plate.
+
+### Walls
+
+The walls that surround the chassis are simple interlocking 3D printed pieces, similarly
+to the base plate.
+
+M3 threaded inserts must be melted into this part to mount it to the base plate.
+
 ## Power board rev. 2.0
 
 The power board is the "heart" of the robot, containing all hardware needed to safely draw energy from a LiPo battery as well as

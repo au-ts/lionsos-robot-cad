@@ -4,7 +4,7 @@ This repository contains the CAD for the LionsOS robot, that is:
 1. The KiCad v7 files for the power PCB, including the production files such as gerbers, pick and place files and the bill of materials (BoM).
 2. A freeze of the Fusion360 CAD files for the chassis..
 
-**IF YOU ARE ASSEMBLING A BOARD** make sure you check [the errata](#Errata). Some minor changes are required for rev 2.0.
+**IF YOU ARE ASSEMBLING A BOARD** make sure you check [the errata](./ERRATA.md). Some minor changes are required for rev 2.0.
 
 ## Power board rev. 2.0
 

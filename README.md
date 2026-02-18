@@ -24,7 +24,7 @@ for acryllic or aluminium if preferred.
 ![robot bottom](./img/Bottom.png)
 
 The robot uses two drive wheels with encoders, with an additional rear caster.
-* [Drive wheel package]()
+* [Drive wheel package (JG25-371)](https://www.aliexpress.com/item/1005001279982165.html)
 * Casters are generic parts from cheap Aliexpress robot kits.
 
 The drive wheels attach using brackets included with the kit, while the caster is attached

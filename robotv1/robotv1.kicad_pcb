@@ -9261,7 +9261,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm*")
-		(path "/e6e7527f-f371-49e2-8668-d531501b745c")
+		(path "/dd890bac-8ee2-4de8-8b51-41b50e2615bd")
 		(sheetname "Root")
 		(sheetfile "robotv1.kicad_sch")
 		(attr through_hole exclude_from_bom)
@@ -13525,7 +13525,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "33kΩ"
+		(property "Value" "56kΩ"
 			(at 0 0.2 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13550,7 +13550,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010100_UNI-ROYAL-Uniroyal-Elec-0402WGF3302TCE_C25779.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2411221126_UNI-ROYAL-Uniroyal-Elec-0402WGF5602TCE_C25796.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13563,7 +13563,7 @@
 				)
 			)
 		)
-		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/°C ±1% 33kΩ 0402 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/°C ±1% 56kΩ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13576,7 +13576,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C25779"
+		(property "LCSC" "C25796"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13589,7 +13589,7 @@
 				)
 			)
 		)
-		(property "Stock" "1069887"
+		(property "Stock" "478348"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13654,7 +13654,7 @@
 				)
 			)
 		)
-		(property "Class" "Basic Component"
+		(property "Class" "Preferred Component"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13693,7 +13693,7 @@
 				)
 			)
 		)
-		(property "Part" "0402WGF3302TCE"
+		(property "Part" "0402WGF5602TCE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13706,7 +13706,7 @@
 				)
 			)
 		)
-		(property "Resistance" "33kΩ"
+		(property "Resistance" "56kΩ"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13797,47 +13797,8 @@
 				)
 			)
 		)
-		(property "Power" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2f47269f-e926-43a8-8f26-282e1923735b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "aeb0655f-c10c-4d4e-b8e4-ec0bf6d6bae3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5042e64d-161d-419f-84db-adf6b9b89bef")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "R_*")
-		(path "/5ff1bb04-d3c7-4e92-9f21-fed1a1d34d5c")
+		(path "/9adc53ac-6557-4560-8467-dedea80f42c5")
 		(sheetname "Root")
 		(sheetfile "robotv1.kicad_sch")
 		(solder_mask_margin 0.038)
@@ -15144,7 +15105,7 @@
 			)
 		)
 		(property ki_fp_filters "DIP*W7.62mm*")
-		(path "/bbf98ac2-8688-478e-bab9-8694e55a75f3")
+		(path "/bf0bad1e-c4f8-4bb9-a713-45fb41a27f29")
 		(sheetname "Root")
 		(sheetfile "robotv1.kicad_sch")
 		(attr through_hole exclude_from_bom)
